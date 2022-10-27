@@ -8,7 +8,7 @@
 
 ## :camera: Demonstração
 <div align="center" >
-  <img src="./login.gif" alt="demo-web" height="425">
+  <img src="./birdteste.gif" alt="demo-web" height="425">
 </div>
 
 ## ⚙ Configuração
