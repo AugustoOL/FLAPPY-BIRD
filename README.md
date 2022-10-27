@@ -18,14 +18,10 @@
 2- Para iniciar a aplicação:
 > 
 
-## :rocket: Tecnologias
+## :rocket: Tecnologia
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com a seguinte tecnologia:
 
-✔️HTML
-
-✔️Typescript
-
-
+✔️C#
 
 ---
