@@ -13,10 +13,12 @@
 
 ## ⚙ Configuração
 
-1- Para instalar as dependências:
-> 
-2- Para iniciar a aplicação:
-> 
+Requisitos: 
+- Visual Studio 
+
+Download:
+- Baixar o arquivo e extrair
+- Executar no Visual Studio
 
 ## :rocket: Tecnologia
 
